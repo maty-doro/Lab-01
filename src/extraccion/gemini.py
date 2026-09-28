@@ -64,7 +64,7 @@ class ExtractorGemini(ExtractorLLM):
 
     def construir_prompt(self, noticia: NoticiaFuente) -> str:
         campos = ", ".join(self.CAMPOS_OBLIGATORIOS)
-        texto = (noticia.texto_limpio or "").strip()
+        texto = (noticia.texto_limpio or "").strip()[12000]
         return (
             "Analiza la siguiente noticia delictual.\n\n"
             "Extrae solamente informacion explicita. No inventes datos, "

@@ -150,12 +150,32 @@ class PipelineLaboratorio:
         return ok, fallos
 
     def ejecutar_obsidian(self) -> None:
-        """TODO(alumno): JSON → notas Markdown enlazadas."""
-        print("== Etapa: obsidian (vault) ==")
-        try:
-            self.escritor.escribir_vault([])
-        except EtapaPendienteAlumno as pendiente:
-            print(pendiente)
+      print("== Etapa: obsidian (vault) ==")
+      ok, fallos = 0, 0
+      try:
+          import json
+          noticias_json = []
+          if DIR_JSON.exists():
+              for archivo in DIR_JSON.glob("*.json"):
+                  # Evitar procesar archivos de plantilla si los hay
+                  if archivo.name.startswith("ejemplo_") or archivo.name.startswith("."):
+                      continue
+                  try:
+                      with archivo.open(encoding="utf-8") as f:
+                          noticias_json.append(json.load(f))
+                          print(f"  Leyendo archivo: {f}")
+                      ok += 1
+                  except Exception as e:
+                      print(f"    Error leyendo {archivo.name}: {e}")
+                      fallos += 1
+          if not noticias_json:
+              print("    No se encontraron archivos JSON validados en data/json/")
+              return
+    
+          self.escritor.escribir_vault(noticias_json)
+          print(f"    Bóveda de Obsidian creada con {len(noticias_json)} OK y {fallos} fallos.")
+      except EtapaPendienteAlumno as pendiente:
+          print(pendiente)
 
     def ejecutar_analisis(self) -> None:
         """TODO(alumno): Data Understanding y visualizaciones."""
