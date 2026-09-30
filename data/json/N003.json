@@ -1,0 +1,83 @@
+{
+  "id_noticia": "N003",
+  "titulo": "PDI detuvo a dos colombianos por el crimen: el presunto ajuste de cuentas narco detrás de horroroso homicidio en Curacaví",
+  "fecha_publicacion": "2025-06-05",
+  "fuente": "LaTercera",
+  "url": "https://www.latercera.com/nacional/noticia/pdi-detuvo-a-dos-colombianos-por-el-crimen-el-presunto-ajuste-de-cuentas-narco-detras-de-horroroso-homicidio-en-curacavi/",
+  "resumen": "Dos ciudadanos colombianos fueron detenidos por la PDI por su responsabilidad en un homicidio calificado ocurrido en Curacaví, vinculado a un presunto ajuste de cuentas por narcotráfico. La víctima fue llevada bajo engaño en un vehículo, asesinada, descuartizada y su cuerpo abandonado en una zona rural tras ser quemado con combustible.",
+  "delitos": [
+    "homicidio",
+    "homicidio calificado",
+    "tortura",
+    "desmembramiento",
+    "tráfico de droga"
+  ],
+  "personas": [
+    {
+      "nombre": "Walt Dapremont",
+      "rol": "subprefecto jefe subrogante de la Brigada de Homicidios Metropolitana de la PDI"
+    },
+    {
+      "nombre": "Ernesto Navarro",
+      "rol": "fiscal ECOH"
+    }
+  ],
+  "organizaciones": [
+    "Policía de Investigaciones",
+    "PDI",
+    "Brigada de Homicidios Metropolitana",
+    "Fiscalía Equipo de Crimen Organizado y Homicidios",
+    "ECOH",
+    "Ministerio Público"
+  ],
+  "lugares": [
+    "Chile",
+    "Colombia",
+    "Curacaví",
+    "Región Metropolitana",
+    "Callejón La Aurora"
+  ],
+  "objetos": [
+    {
+      "tipo": "vehículo",
+      "nombre": null,
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "combustible",
+      "nombre": null,
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "cámaras de seguridad",
+      "nombre": null,
+      "cantidad": 50,
+      "unidad": "unidades"
+    },
+    {
+      "tipo": "canastos plásticos",
+      "nombre": null,
+      "cantidad": 2,
+      "unidad": "unidades"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Policía de Investigaciones",
+      "tipo": "detuvo a",
+      "destino": "dos sujetos de nacionalidad colombiana"
+    },
+    {
+      "origen": "Fiscalía Equipo de Crimen Organizado y Homicidios (ECOH)",
+      "tipo": "solicitó",
+      "destino": "prisión preventiva"
+    },
+    {
+      "origen": "fiscal Ernesto Navarro",
+      "tipo": "formalizó por",
+      "destino": "homicidio calificado"
+    }
+  ]
+}

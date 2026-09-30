@@ -1,0 +1,77 @@
+{
+  "id_noticia": "N010",
+  "titulo": "Ñuble registra 4 homicidios más que en 2025 pese a que Seremi de Seguridad asegura que van a la baja",
+  "fecha_publicacion": "2026-09-02",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/09/02/nuble-registra-4-homicidios-mas-que-en-2025-pese-a-que-seremi-de-seguridad-asegura-que-van-a-la-baja.shtml",
+  "resumen": "La Seremi de Seguridad de Ñuble aseguró que los homicidios van a la baja, pero las cifras muestran nueve casos en 2026, cuatro más que en el mismo periodo de 2025. Recientemente, un joven de 31 años fue asesinado en San Carlos por dos individuos que le dispararon desde un vehículo.",
+  "delitos": [
+    "homicidio",
+    "asesinato"
+  ],
+  "personas": [
+    {
+      "nombre": "Héctor Ponce",
+      "rol": "seremi de Seguridad"
+    },
+    {
+      "nombre": "Alexis Zapata Andrades",
+      "rol": "víctima"
+    },
+    {
+      "nombre": "Raúl Sánchez",
+      "rol": "jefe de la Brigada de Homicidios de la PDI de Chillán, subprefecto"
+    }
+  ],
+  "organizaciones": [
+    {
+      "nombre": "Seremi de Seguridad de Ñuble",
+      "tipo": "institución gubernamental"
+    },
+    {
+      "nombre": "PDI",
+      "tipo": "policía"
+    },
+    {
+      "nombre": "Hospital de San Carlos",
+      "tipo": "hospital"
+    }
+  ],
+  "lugares": [
+    "Ñuble",
+    "San Carlos",
+    "Chillán",
+    "Coihueco"
+  ],
+  "objetos": [
+    {
+      "tipo": "arma de fuego",
+      "nombre": null,
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": null,
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Héctor Ponce",
+      "tipo": "es seremi de",
+      "destino": "Seremi de Seguridad"
+    },
+    {
+      "origen": "Raúl Sánchez",
+      "tipo": "es jefe de",
+      "destino": "Brigada de Homicidios de la PDI de Chillán"
+    },
+    {
+      "origen": "Alexis Zapata Andrades",
+      "tipo": "fue asesinado en",
+      "destino": "San Carlos"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id_noticia": "N006",
+  "titulo": "Pasajero de taxi baleado desde otro vehículo en Pudahuel y llevado a Renca: ECOH por homicidio en RM",
+  "fecha_publicacion": "2026-09-22",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/22/pasajero-de-taxi-baleado-desde-otro-vehiculo-en-pudahuel-y-llevado-a-renca-ecoh-por-homicidio-en-rm.shtml",
+  "resumen": "La Fiscalía ECOH Metropolitana investiga el homicidio de un hombre de 41 años que viajaba como pasajero en un taxi en Pudahuel, siendo interceptado por otro vehículo y baleado en el tórax, falleciendo posteriormente tras llegar a una estación de servicio en Renca en busca de ayuda.",
+  "delitos": [
+    "homicidio"
+  ],
+  "personas": [
+    {
+      "nombre": "Marcelo Leiva",
+      "rol": "Fiscal"
+    },
+    {
+      "nombre": "hombre de 41 años",
+      "rol": "víctima"
+    }
+  ],
+  "organizaciones": [
+    "Fiscalía ECOH Metropolitana",
+    "OS9 de Carabineros",
+    "Labocar de Carabineros",
+    "Carabineros",
+    "Hospital Félix Bulnes",
+    "ECOH_FiscaliaRM",
+    "0s9_carabineros"
+  ],
+  "lugares": [
+    "Pudahuel",
+    "Renca",
+    "calle Alejandro Drip",
+    "Región Metropolitana",
+    "estación de servicio en Renca",
+    "sitio eriazo en calle Alejandro Drip"
+  ],
+  "objetos": [
+    {
+      "tipo": "vehículo",
+      "nombre": "taxi",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "otro vehículo",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "arma",
+      "nombre": "arma de fuego",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "munición",
+      "nombre": "impacto balístico",
+      "cantidad": 1,
+      "unidad": "unidad"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "hombre de 41 años",
+      "tipo": "pasajero en",
+      "destino": "taxi"
+    },
+    {
+      "origen": "otro vehículo",
+      "tipo": "intercepta",
+      "destino": "taxi"
+    },
+    {
+      "origen": "Fiscalía ECOH Metropolitana",
+      "tipo": "investiga",
+      "destino": "homicidio"
+    },
+    {
+      "origen": "OS9 de Carabineros",
+      "tipo": "investiga",
+      "destino": "homicidio"
+    },
+    {
+      "origen": "Labocar de Carabineros",
+      "tipo": "investiga",
+      "destino": "homicidio"
+    },
+    {
+      "origen": "taxi",
+      "tipo": "llega a",
+      "destino": "estación de servicio en Renca"
+    }
+  ]
+}

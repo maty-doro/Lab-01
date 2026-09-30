@@ -1,0 +1,79 @@
+{
+  "id_noticia": "N005",
+  "titulo": "Hombre es asesinado con arma blanca en pleno centro de Los Lagos: PDI investiga homicidio",
+  "fecha_publicacion": "2026-09-21",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/09/21/hombre-es-asesinado-con-arma-blanca-en-pleno-centro-de-los-lagos-pdi-investiga-homicidio.shtml",
+  "resumen": "Un hombre de unos 40 años fue asesinado con un arma blanca tras un altercado en pleno centro de Los Lagos, región de Los Ríos. La PDI, a través de la Brigada de Homicidios y el Laboratorio de Criminalística, investiga el crimen para dar con el paradero de los autores.",
+  "delitos": [
+    "homicidio",
+    "asesinato"
+  ],
+  "personas": [
+    {
+      "nombre": "hombre de unos 40 años",
+      "rol": "víctima"
+    },
+    {
+      "nombre": "otra persona",
+      "rol": "agresor"
+    }
+  ],
+  "organizaciones": [
+    {
+      "nombre": "Policía de Investigaciones",
+      "rol": "institución investigadora"
+    },
+    {
+      "nombre": "PDI",
+      "rol": "institución investigadora"
+    },
+    {
+      "nombre": "Radio Bío Bío",
+      "rol": "medio de comunicación"
+    },
+    {
+      "nombre": "Brigada de Homicidios",
+      "rol": "unidad policial"
+    },
+    {
+      "nombre": "Laboratorio de Criminalística",
+      "rol": "unidad policial"
+    },
+    {
+      "nombre": "Lacrim",
+      "rol": "unidad policial"
+    }
+  ],
+  "lugares": [
+    "Los Lagos",
+    "región de Los Ríos",
+    "esquina de las calles Quinchilca con Collilelfu",
+    "Valdivia"
+  ],
+  "objetos": [
+    {
+      "tipo": "arma",
+      "nombre": "arma blanca",
+      "cantidad": 1,
+      "unidad": "unidad"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "otra persona",
+      "tipo": "atacó a",
+      "destino": "hombre de unos 40 años"
+    },
+    {
+      "origen": "Brigada de Homicidios",
+      "tipo": "investiga",
+      "destino": "homicidio"
+    },
+    {
+      "origen": "Laboratorio de Criminalística",
+      "tipo": "investiga",
+      "destino": "homicidio"
+    }
+  ]
+}

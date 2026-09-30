@@ -1,0 +1,48 @@
+{
+  "id_noticia": "N015",
+  "titulo": "Hallan cuerpo de hombre de nacionalidad haitiana con múltiples puñaladas en las inmediaciones de feria libre de Curicó",
+  "fecha_publicacion": "este domingo",
+  "fuente": "LaTercera",
+  "url": "https://www.latercera.com/nacional/noticia/hallan-cuerpo-de-hombre-de-nacionalidad-haitiana-con-multiples-punaladas-en-las-inmediaciones-de-feria-libre-de-curicó/",
+  "resumen": "Un hombre de nacionalidad haitiana de aproximadamente 40 años fue hallado sin vida con múltiples heridas cortantes en las cercanías de la feria libre de Curicó.",
+  "delitos": [
+    "homicidio"
+  ],
+  "personas": [
+    {
+      "nombre": "Nelson Riquelme",
+      "rol": "fiscal ECOH"
+    },
+    {
+      "nombre": "hombre de nacionalidad haitiana",
+      "rol": "víctima"
+    }
+  ],
+  "organizaciones": [
+    "Carabineros",
+    "Servicio de Atención Médica de Urgencia (SAMU)",
+    "Fiscalía Regional del Maule",
+    "Policía de Investigaciones (PDI)",
+    "Brigada de Homicidios de la Policía de Investigaciones (PDI)"
+  ],
+  "lugares": [
+    "Curicó",
+    "Región del Maule",
+    "feria libre de Curicó",
+    "calle Cloroformo Valenzuela",
+    "callejón que separa ambas instalaciones"
+  ],
+  "objetos": [],
+  "relaciones": [
+    {
+      "origen": "Nelson Riquelme",
+      "tipo": "lidera",
+      "destino": "diligencias investigativas"
+    },
+    {
+      "origen": "Brigada de Homicidios de la Policía de Investigaciones (PDI)",
+      "tipo": "lidera",
+      "destino": "diligencias investigativas"
+    }
+  ]
+}

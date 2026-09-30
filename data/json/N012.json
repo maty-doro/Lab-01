@@ -1,0 +1,54 @@
+{
+  "id_noticia": "N012",
+  "titulo": "OS-7 incautó más de 1.200 kilos de marihuana boliviana destinada a Fiestas Patrias en Santiago",
+  "fecha_publicacion": "2026-09-17T10:45:00",
+  "fuente": "Cooperativa",
+  "url": "https://www.cooperativa.cl/noticias/pais/policial/drogas/os-7-incauto-mas-de-1-200-kilos-de-marihuana-boliviana-destinada-a/2026-09-17/102452.html",
+  "resumen": "El OS-7 incautó más de 1.200 kilos de marihuana boliviana ingresada por pasos fronterizos no habilitados en el norte y destinada a Puente Alto en Santiago, operativo que dejó ocho detenidos.",
+  "delitos": [
+    "tráfico de drogas",
+    "ingreso ilegal de drogas"
+  ],
+  "personas": [
+    {
+      "nombre": "ocho individuos",
+      "rol": "detenido"
+    }
+  ],
+  "organizaciones": [
+    "OS-7",
+    "organización delictual"
+  ],
+  "lugares": [
+    "territorio nacional",
+    "zona norte",
+    "Santiago",
+    "Puente Alto",
+    "Bolivia"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": "1.200",
+      "unidad": "kilos"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "OS-7",
+      "tipo": "incautó",
+      "destino": "marihuana"
+    },
+    {
+      "origen": "ocho individuos",
+      "tipo": "vinculados a",
+      "destino": "organización delictual"
+    },
+    {
+      "origen": "marihuana",
+      "tipo": "destinada a",
+      "destino": "Puente Alto"
+    }
+  ]
+}

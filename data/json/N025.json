@@ -1,0 +1,92 @@
+{
+  "id_noticia": "N025",
+  "titulo": "Masivo robo de celulares en La Pampilla: seis peruanos detenidos y más de 80 equipos recuperados",
+  "fecha_publicacion": "2026-09-21",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-de-coquimbo/2026/09/21/masivo-robo-de-celulares-en-la-pampilla-seis-peruanos-detenidos-y-mas-de-80-equipos-recuperados.shtml",
+  "resumen": "Seis ciudadanos peruanos fueron detenidos en La Pampilla de Coquimbo por el robo de celulares. Carabineros recuperó más de 80 teléfonos y un reloj inteligente, tras recibir 151 denuncias por hurto durante la festividad.",
+  "delitos": [
+    "robo de celulares",
+    "hurto de celulares",
+    "riñas",
+    "porte de elementos prohibidos",
+    "venta ilegal de celulares"
+  ],
+  "personas": [
+    {
+      "nombre": "Cristián Brebi",
+      "rol": "jefe de Zona de Carabineros Coquimbo"
+    },
+    {
+      "nombre": "Víctor Pino",
+      "rol": "delegado presidencial regional"
+    }
+  ],
+  "organizaciones": [
+    "Carabineros",
+    "OS9",
+    "Sección de Investigación Policial (SIP)",
+    "Segunda Comisaría de Coquimbo"
+  ],
+  "lugares": [
+    "La Pampilla de Coquimbo",
+    "La Pampilla",
+    "sector de comida de La Pampilla",
+    "Segunda Comisaría de Coquimbo"
+  ],
+  "objetos": [
+    {
+      "tipo": "teléfono",
+      "nombre": "celular",
+      "cantidad": 80,
+      "unidad": "más de"
+    },
+    {
+      "tipo": "reloj",
+      "nombre": "reloj inteligente",
+      "cantidad": 1,
+      "unidad": null
+    },
+    {
+      "tipo": "dispositivo electrónico",
+      "nombre": "iPad",
+      "cantidad": 1,
+      "unidad": null
+    },
+    {
+      "tipo": "arma blanca",
+      "nombre": "armas blancas",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "dispositivo de electrochoque",
+      "nombre": "dispositivos de electrochoque",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "alcohol",
+      "nombre": "alcohol",
+      "cantidad": 1340,
+      "unidad": "más de"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Carabineros",
+      "tipo": "recuperó",
+      "destino": "teléfonos"
+    },
+    {
+      "origen": "OS9",
+      "tipo": "investigó",
+      "destino": "robo de celulares"
+    },
+    {
+      "origen": "Sección de Investigación Policial (SIP)",
+      "tipo": "investigó",
+      "destino": "robo de celulares"
+    }
+  ]
+}

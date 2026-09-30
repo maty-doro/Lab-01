@@ -1,0 +1,61 @@
+{
+  "id_noticia": "N016",
+  "titulo": "Joven de 24 años muere apuñalado tras riña en ramada de San Clemente: detienen a presunto autor",
+  "fecha_publicacion": null,
+  "fuente": "LaTercera",
+  "url": "https://www.latercera.com/nacional/noticia/joven-de-24-anos-muere-apunalado-tras-rina-en-ramada-de-san-clemente-detienen-a-presunto-autor/",
+  "resumen": "Un joven de 24 años murió tras ser agredido con un arma cortante durante una riña en una ramada en San Clemente. Carabineros detuvo a un joven de 19 años como presunto autor y la investigación quedó a cargo de la PDI.",
+  "delitos": [
+    "homicidio",
+    "riña"
+  ],
+  "personas": [
+    {
+      "nombre": "joven de 24 años",
+      "rol": "víctima"
+    },
+    {
+      "nombre": "Rodrigo Burgos",
+      "rol": "subprefecto"
+    },
+    {
+      "nombre": "joven de 19 años",
+      "rol": "detenido"
+    }
+  ],
+  "organizaciones": [
+    "Policía de Investigaciones (PDI)",
+    "Carabineros",
+    "Brigada de Homicidios de Talca",
+    "Fiscalía de Flagrancia del Maule",
+    "Laboratorio de Criminalística",
+    "Ministerio Público"
+  ],
+  "lugares": [
+    "San Clemente",
+    "Región del Maule",
+    "sector Los Montes",
+    "centro asistencial de San Clemente",
+    "Talca"
+  ],
+  "objetos": [
+    {
+      "tipo": "arma cortante",
+      "nombre": null,
+      "cantidad": 1,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "joven de 19 años",
+      "tipo": "detenido_por",
+      "destino": "Carabineros"
+    },
+    {
+      "origen": "Brigada de Homicidios de Talca",
+      "tipo": "investiga",
+      "destino": "homicidio"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id_noticia": "N009",
+  "titulo": "Asesinato a golpes en vía pública de La Granja es el tercer homicidio de las últimas horas en la RM",
+  "fecha_publicacion": "2026-09-18",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/18/asesinato-a-golpes-en-via-publica-de-la-granja-es-el-tercer-homicidio-de-las-ultimas-horas-en-la-rm.shtml",
+  "resumen": "La Brigada de Homicidios de la PDI investiga un asesinato a golpes en La Granja, siendo el tercer homicidio en pocas horas en la región Metropolitana. La víctima, una persona en situación de calle, fue encontrada sin vida en la vía pública tras una disputa. Otros dos homicidios con arma de fuego ocurrieron en la misma comuna y en Santiago.",
+  "delitos": [
+    "asesinato",
+    "homicidio"
+  ],
+  "personas": [
+    {
+      "nombre": "hombre de 52 años",
+      "rol": "víctima"
+    },
+    {
+      "nombre": "ciudadano colombiano de cerca de 40 años",
+      "rol": "víctima"
+    }
+  ],
+  "organizaciones": [
+    "Brigada de Homicidios de la PDI",
+    "PDI",
+    "Brigada de Homicidios (BH)",
+    "Radio Bío Bío",
+    "Carabineros",
+    "Servicio Médico Legal (SML)",
+    "Fiscalía ECOH"
+  ],
+  "lugares": [
+    "La Granja",
+    "región Metropolitana",
+    "Santiago",
+    "calle Quinteros con Catoce Poniente",
+    "Hospital de La Florida",
+    "calle San Diego, entre Ñuble y General Gana",
+    "Pasaje"
+  ],
+  "objetos": [
+    {
+      "tipo": "objeto contundente",
+      "nombre": "objeto contundente",
+      "cantidad": "1",
+      "unidad": null
+    },
+    {
+      "tipo": "arma de fuego",
+      "nombre": "arma de fuego",
+      "cantidad": "15",
+      "unidad": "disparos"
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "vehículo",
+      "cantidad": "2",
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Brigada de Homicidios de la PDI",
+      "tipo": "investiga",
+      "destino": "asesinato"
+    },
+    {
+      "origen": "Carabineros",
+      "tipo": "se constituyó",
+      "destino": "calle Quinteros con Catoce Poniente"
+    },
+    {
+      "origen": "homicida",
+      "tipo": "atacó",
+      "destino": "hombre"
+    },
+    {
+      "origen": "Servicio Médico Legal (SML)",
+      "tipo": "concurrió",
+      "destino": "sitio del suceso"
+    },
+    {
+      "origen": "Fiscalía ECOH",
+      "tipo": "indaga",
+      "destino": "casos"
+    }
+  ]
+}

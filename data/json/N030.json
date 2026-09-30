@@ -1,0 +1,82 @@
+{
+  "id_noticia": "N030",
+  "titulo": "Cámaras municipales permitieron detención de sujeto que asaltó a un peatón en Antofagasta",
+  "fecha_publicacion": "2026-05-18",
+  "fuente": "Cooperativa",
+  "url": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/camaras-municipales-permitieron-detencion-de-sujeto-que-asalto-a-un/2026-05-18/202520.html",
+  "resumen": "Un sujeto de 22 años y nacionalidad colombiana fue detenido en Antofagasta tras ser detectado por cámaras municipales mientras asaltaba a un peatón golpeándolo para robarle su teléfono celular.",
+  "delitos": [
+    "robo con violencia",
+    "robo con agresión",
+    "robo con intimidación"
+  ],
+  "personas": [
+    {
+      "nombre": "Dayane Márquez Calle",
+      "rol": "Periodista Digital"
+    },
+    {
+      "nombre": "Gonzalo Castro",
+      "rol": "director de Seguridad Pública municipal"
+    },
+    {
+      "nombre": null,
+      "rol": "delincuente"
+    },
+    {
+      "nombre": null,
+      "rol": "víctima"
+    },
+    {
+      "nombre": null,
+      "rol": "funcionario de Carabineros"
+    },
+    {
+      "nombre": null,
+      "rol": "operadores de las cámaras"
+    },
+    {
+      "nombre": null,
+      "rol": "efectivos de la Tercera Comisaría de Carabineros"
+    }
+  ],
+  "organizaciones": [
+    "Carabineros",
+    "Cenco",
+    "Tercera Comisaría de Carabineros",
+    "Ministerio Público"
+  ],
+  "lugares": [
+    "Región de Antofagasta",
+    "Antofagasta",
+    "intersección de las calles Matta con Uribe",
+    "centro de Antofagasta",
+    "Plaza Sotomayor"
+  ],
+  "objetos": [
+    {
+      "tipo": "electrónico",
+      "nombre": "teléfono celular",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "tecnología",
+      "nombre": "cámaras de televigilancia municipal",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "delincuente",
+      "tipo": "ataca",
+      "destino": "víctima"
+    },
+    {
+      "origen": "Tercera Comisaría de Carabineros",
+      "tipo": "detiene",
+      "destino": "delincuente"
+    }
+  ]
+}

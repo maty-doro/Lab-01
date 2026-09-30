@@ -1,0 +1,126 @@
+{
+  "id_noticia": "N019",
+  "titulo": "Carabineros incauta más de una tonelada de droga destinada a la venta durante Fiestas Patrias: avalúo supera los 11 mil millones",
+  "fecha_publicacion": null,
+  "fuente": "LaTercera",
+  "url": "https://www.latercera.com/nacional/noticia/carabineros-incauta-mas-de-una-tonelada-de-droga-destinada-a-la-venta-durante-fiestas-patrias-avaluo-supera-los-11-mil-millones/",
+  "resumen": "Carabineros del OS7 y fiscalías decomisaron más de una tonelada de droga destinada a Fiestas Patrias, detuvieron a ocho personas y desarticularon organizaciones criminales transnacionales en operativos en la Región Metropolitana y el norte del país.",
+  "delitos": [
+    "tráfico de drogas",
+    "ingreso ilegal de droga por pasos no habilitados",
+    "porte de armas"
+  ],
+  "personas": [
+    {
+      "nombre": "Marcelo Araya",
+      "rol": "general director de Carabineros"
+    }
+  ],
+  "organizaciones": [
+    "OS7 de Carabineros",
+    "fiscalías de Tamarugal",
+    "Fiscalía Metropolitana Sur",
+    "organización criminal transnacional",
+    "Ministerio Público"
+  ],
+  "lugares": [
+    "norte del país",
+    "Región Metropolitana",
+    "RM",
+    "Iquique",
+    "Región de Tarapacá",
+    "Puente Alto",
+    "zona norte del país"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": "1.124",
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": "134",
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": "1.258",
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "clorhidrato de cocaína",
+      "cantidad": "1",
+      "unidad": "kilo"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "clorhidrato de cocaína",
+      "cantidad": "690",
+      "unidad": "gramos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "Ketamina",
+      "cantidad": "1",
+      "unidad": "kilo"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "Ketamina",
+      "cantidad": "235",
+      "unidad": "gramos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "MDMA",
+      "cantidad": "79",
+      "unidad": "pastillas"
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "vehículos",
+      "cantidad": "2",
+      "unidad": "unidades"
+    },
+    {
+      "tipo": "arma",
+      "nombre": "pistola marca Glock calibre 9 mm",
+      "cantidad": "1",
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "munición",
+      "nombre": "cartuchos de munición",
+      "cantidad": "28",
+      "unidad": "unidades"
+    },
+    {
+      "tipo": "dinero",
+      "nombre": "efectivo",
+      "cantidad": "cuatro millones",
+      "unidad": "pesos"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "OS7 de Carabineros",
+      "tipo": "incautó",
+      "destino": "marihuana"
+    },
+    {
+      "origen": "OS7 de Carabineros",
+      "tipo": "detuvo",
+      "destino": "integrantes de la banda"
+    },
+    {
+      "origen": "organización criminal transnacional",
+      "tipo": "gestionaba",
+      "destino": "droga"
+    }
+  ]
+}

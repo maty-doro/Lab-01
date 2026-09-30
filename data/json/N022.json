@@ -1,0 +1,83 @@
+{
+  "id_noticia": "N022",
+  "titulo": "Ni el romero ni la ruda engañaron a Holly: can detecta $35 millones en marihuana en bus en Ñuble",
+  "fecha_publicacion": "2026-09-24",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/09/24/ni-el-romero-ni-la-ruda-enganaron-a-holly-can-detecta-35-millones-en-marihuana-en-bus-en-nuble.shtml",
+  "resumen": "Una perrita policial llamada Holly detectó más de 3,5 kilos de marihuana ocultos entre hojas de romero y ruda al interior de un bus en Ñuble. El procedimiento dejó un hombre detenido por tráfico de drogas y la incautación de dinero en efectivo.",
+  "delitos": [
+    "tráfico de drogas"
+  ],
+  "personas": [
+    {
+      "nombre": "José Luis Villegas",
+      "rol": "prefecto de Ñuble, coronel"
+    },
+    {
+      "nombre": "Holly",
+      "rol": "perrita policial / can detector"
+    }
+  ],
+  "organizaciones": [
+    "OS7 de Carabineros",
+    "Carabineros"
+  ],
+  "lugares": [
+    "Ñuble"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": "3.5",
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "dinero",
+      "nombre": "efectivo",
+      "cantidad": "57000",
+      "unidad": "pesos"
+    },
+    {
+      "tipo": "hierba",
+      "nombre": "romero",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "hierba",
+      "nombre": "ruda",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "bus",
+      "cantidad": "1",
+      "unidad": null
+    },
+    {
+      "tipo": "equipaje",
+      "nombre": "equipaje de mano",
+      "cantidad": "1",
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Holly",
+      "tipo": "detectó",
+      "destino": "marihuana"
+    },
+    {
+      "origen": "Carabineros",
+      "tipo": "detuvo",
+      "destino": "un hombre"
+    },
+    {
+      "origen": "José Luis Villegas",
+      "tipo": "pertenece_a",
+      "destino": "Ñuble"
+    }
+  ]
+}

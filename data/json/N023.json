@@ -1,0 +1,94 @@
+{
+  "id_noticia": "N023",
+  "titulo": "Desbaratan clan familiar narco liderado desde cárcel: indagan delfines en sus 413 kilos de cocaína",
+  "fecha_publicacion": "2026-09-23",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/23/desbaratan-clan-familiar-narco-liderado-desde-carcel-indagan-delfines-en-sus-413-kilos-de-cocaina.shtml",
+  "resumen": "PDI desarticula clan narco liderado desde la cárcel de Puente Alto, incautando 413 kilos de droga en la Operación Nieve de Oruro. Dos mujeres detenidas por acopio y distribución en La Florida y Pudahuel. Fiscalía logra prisión preventiva para la pareja e hija del líder.",
+  "delitos": [
+    "tráfico de drogas"
+  ],
+  "personas": [
+    {
+      "nombre": "Erick Menay",
+      "rol": "prefecto, jefe nacional contra el crimen organizado de la PDI"
+    },
+    {
+      "nombre": "Héctor Barros",
+      "rol": "fiscal regional Metropolitano Sur"
+    },
+    {
+      "nombre": "Sergio Soto",
+      "rol": "fiscal SAC y Alta Complejidad"
+    },
+    {
+      "nombre": "César Flores",
+      "rol": "Fiscal de Flagrancia"
+    }
+  ],
+  "organizaciones": [
+    {
+      "nombre": "PDI",
+      "tipo": "policia"
+    },
+    {
+      "nombre": "Fiscalía",
+      "tipo": "institucion publica"
+    },
+    {
+      "nombre": "Fiscalía Metropolitana Sur",
+      "tipo": "institucion publica"
+    }
+  ],
+  "lugares": [
+    "Puente Alto",
+    "La Florida",
+    "Pudahuel",
+    "Santiago",
+    "Colombia",
+    "Región Metropolitana"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "clorhidrato de cocaína",
+      "cantidad": 361.0,
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "cocaína base",
+      "cantidad": 51.0,
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "droga",
+      "cantidad": 413.0,
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "dispositivo electronico",
+      "nombre": "teléfonos celulares",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Erick Menay",
+      "tipo": "pertenece_a",
+      "destino": "PDI"
+    },
+    {
+      "origen": "Héctor Barros",
+      "tipo": "pertenece_a",
+      "destino": "Fiscalía Metropolitana Sur"
+    },
+    {
+      "origen": "César Flores",
+      "tipo": "pertenece_a",
+      "destino": "Fiscalía Metropolitana Sur"
+    }
+  ]
+}

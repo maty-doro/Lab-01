@@ -1,0 +1,53 @@
+{
+  "id_noticia": "N027",
+  "titulo": "Delincuente intenta robar auto entrando por el techo y queda atrapado de cabeza en Antofagasta",
+  "fecha_publicacion": null,
+  "fuente": "LaTercera",
+  "url": "https://www.latercera.com/videos/noticia/delincuente-intenta-robar-auto-entrando-por-el-techo-y-queda-atrapado-de-cabeza-en-antofagasta/",
+  "resumen": "Un delincuente intentó robar un automóvil ingresando por el sunroof, pero quedó atrapado de cabeza. El hecho fue detectado por cámaras y el sistema de seguridad municipal, culminando con la detención del sujeto por parte de Carabineros.",
+  "delitos": [
+    "robo de vehículo"
+  ],
+  "personas": [
+    {
+      "nombre": "Sacha Razmilic",
+      "rol": "alcalde"
+    },
+    {
+      "nombre": null,
+      "rol": "delincuente"
+    }
+  ],
+  "organizaciones": [
+    "Carabineros"
+  ],
+  "lugares": [
+    "Antofagasta"
+  ],
+  "objetos": [
+    {
+      "tipo": "vehículo",
+      "nombre": "auto",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "tecnología",
+      "nombre": "cámaras",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "sistema de seguridad municipal",
+      "tipo": "dio aviso a",
+      "destino": "Carabineros"
+    },
+    {
+      "origen": "Carabineros",
+      "tipo": "detuvo a",
+      "destino": "delincuente"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id_noticia": "N017",
+  "titulo": "Fiscalía ECOH investiga homicidio de adolescente de 16 años y ataque a su hermano en La Pintana",
+  "fecha_publicacion": null,
+  "fuente": "LaTercera",
+  "url": "https://www.latercera.com/nacional/noticia/fiscalia-ecoh-investiga-homicidio-de-adolescente-de-16-anos-y-ataque-a-su-hermano-en-la-pintana/",
+  "resumen": "La Fiscalía ECOH investiga el homicidio de un adolescente de 16 años y el ataque a balazos a su hermano de 27 años en la comuna de La Pintana, tras haber estado compartiendo en una fonda en Maipú.",
+  "delitos": [
+    "homicidio",
+    "ataque a balazos"
+  ],
+  "personas": [
+    {
+      "nombre": "adolescente de 16 años",
+      "rol": "víctima"
+    },
+    {
+      "nombre": "hermano de 27 años",
+      "rol": "víctima"
+    },
+    {
+      "nombre": "Robert Briones Canales",
+      "rol": "subprefecto / jefe de la Brigada de Homicidios Sur"
+    },
+    {
+      "nombre": "Ignazio Rivera",
+      "rol": "fiscal ECOH"
+    }
+  ],
+  "organizaciones": [
+    "Fiscalía ECOH",
+    "Fiscalía ECOH de la Región Metropolitana",
+    "Brigada de Homicidios Sur",
+    "Policía de Investigaciones (PDI)"
+  ],
+  "lugares": [
+    "Región Metropolitana",
+    "población Santo Tomás",
+    "La Pintana",
+    "centro asistencial",
+    "sector comercial",
+    "fonda en la comuna de Maipú",
+    "domicilio",
+    "sitio del suceso",
+    "hospital"
+  ],
+  "objetos": [
+    {
+      "tipo": "vehículo",
+      "nombre": "vehículo en movimiento",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "vehículo Fiat de color gris",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "arma de fuego",
+      "nombre": "arma de fuego",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "munición",
+      "nombre": "vainillas",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Robert Briones Canales",
+      "tipo": "pertenece_a",
+      "destino": "Brigada de Homicidios Sur"
+    },
+    {
+      "origen": "Ignazio Rivera",
+      "tipo": "pertenece_a",
+      "destino": "Fiscalía ECOH"
+    },
+    {
+      "origen": "Brigada de Homicidios",
+      "tipo": "pertenece_a",
+      "destino": "Policía de Investigaciones (PDI)"
+    },
+    {
+      "origen": "Fiscalía ECOH",
+      "tipo": "investiga",
+      "destino": "homicidio de adolescente de 16 años y ataque a su hermano"
+    }
+  ]
+}

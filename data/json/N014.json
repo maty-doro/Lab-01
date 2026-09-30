@@ -1,0 +1,59 @@
+{
+  "id_noticia": "N014",
+  "titulo": "San Joaquín: Detuvieron a sujeto con 17 kilos de cocaína ocultos en auto de alta gama",
+  "fecha_publicacion": "2026-09-17T08:03:00",
+  "fuente": "Cooperativa",
+  "url": "https://www.cooperativa.cl/noticias/pais/policial/drogas/san-joaquin-detuvieron-a-sujeto-con-17-kilos-de-cocaina-ocultos-en-auto/2026-09-17/074745.html",
+  "resumen": "Un sujeto fue detenido en San Joaquín tras intentar evadir una fiscalización policial escapando a pie, luego de abandonar un auto de alta gama donde transportaba 17 kilos de clorhidrato de cocaína.",
+  "delitos": [
+    "tráfico de drogas",
+    "evasión de fiscalización policial"
+  ],
+  "personas": [
+    {
+      "nombre": "sujeto",
+      "rol": "imputado"
+    }
+  ],
+  "organizaciones": [
+    "Google",
+    "Whatsapp",
+    "ATON",
+    "Cooperativa.cl"
+  ],
+  "lugares": [
+    "San Joaquín",
+    "calle El Pinar con San Juan"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "clorhidrato de cocaína",
+      "cantidad": "17",
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "auto de alta gama",
+      "cantidad": "1",
+      "unidad": "unidad"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "sujeto",
+      "tipo": "transportaba",
+      "destino": "clorhidrato de cocaína"
+    },
+    {
+      "origen": "sujeto",
+      "tipo": "abandonó",
+      "destino": "auto de alta gama"
+    },
+    {
+      "origen": "unidades policiales",
+      "tipo": "hallaron",
+      "destino": "clorhidrato de cocaína"
+    }
+  ]
+}

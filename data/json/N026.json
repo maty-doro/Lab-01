@@ -1,0 +1,81 @@
+{
+  "id_noticia": "N026",
+  "titulo": "Detienen a dos imputados por robos bajo modalidad \"amarrados\" en sectores rurales de Santiago",
+  "fecha_publicacion": null,
+  "fuente": "LaTercera",
+  "url": "https://www.latercera.com/nacional/noticia/detienen-a-dos-imputados-por-robos-bajo-modalidad-amarrados-en-sectores-rurales-de-santiago/",
+  "resumen": "La PDI detuvo a dos personas en La Pintana vinculadas a robos con intimidación en sectores rurales de Santiago, bajo la modalidad de ingresar a viviendas, intimidar y amarrar a los ocupantes para sustraer dinero, joyas y especies.",
+  "delitos": [
+    "robo con intimidación",
+    "robo con violencia",
+    "receptación",
+    "homicidio frustrado"
+  ],
+  "personas": [
+    {
+      "nombre": "Matías Rojas",
+      "rol": "inspector de la BIRO"
+    }
+  ],
+  "organizaciones": [
+    "Policía de Investigaciones (PDI)",
+    "Brigada Investigadora de Robos (BIRO) Metropolitana Occidente",
+    "BIRO"
+  ],
+  "lugares": [
+    "La Pintana",
+    "Región Metropolitana",
+    "Santiago",
+    "área occidente de Santiago"
+  ],
+  "objetos": [
+    {
+      "tipo": "vehículo",
+      "nombre": "vehículo utilizado en los delitos",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "arma",
+      "nombre": "armas de fogueo",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "evidencia",
+      "nombre": "evidencia balística",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "especie",
+      "nombre": "especies",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "dinero",
+      "nombre": "dinero",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "joya",
+      "nombre": "joyas",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Brigada Investigadora de Robos (BIRO) Metropolitana Occidente",
+      "tipo": "investigó",
+      "destino": "robos con intimidación"
+    },
+    {
+      "origen": "Policía de Investigaciones (PDI)",
+      "tipo": "detuvo",
+      "destino": "dos personas"
+    }
+  ]
+}

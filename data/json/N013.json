@@ -1,0 +1,102 @@
+{
+  "id_noticia": "N013",
+  "titulo": "Carabineros de El Loa incautó más de 1.400 kilos de marihuana durante Fiestas Patrias",
+  "fecha_publicacion": "2026-09-21",
+  "fuente": "Cooperativa",
+  "url": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/carabineros-de-el-loa-incauto-mas-de-1-400-kilos-de-marihuana-durante/2026-09-21/192425.html",
+  "resumen": "Carabineros incautó 1.429 kilos de marihuana en dos procedimientos desarrollados en la Región de Antofagasta durante Fiestas Patrias, uno en San Pedro de Atacama y otro en Calama.",
+  "delitos": [
+    "tráfico de drogas",
+    "robo de vehículo"
+  ],
+  "personas": [
+    {
+      "nombre": "Dayane Márquez Calle",
+      "rol": "Periodista Digital"
+    },
+    {
+      "nombre": "Juan Castro Bekios",
+      "rol": "fiscal regional"
+    },
+    {
+      "nombre": "Cristián Montre",
+      "rol": "general, jefe de zona de Carabineros"
+    },
+    {
+      "nombre": "Katherine López",
+      "rol": "delegada presidencial regional de Antofagasta"
+    }
+  ],
+  "organizaciones": [
+    {
+      "nombre": "Carabineros",
+      "tipo": "policía"
+    },
+    {
+      "nombre": "OS-7 El Loa",
+      "tipo": "policía"
+    },
+    {
+      "nombre": "GOPE",
+      "tipo": "policía"
+    },
+    {
+      "nombre": "Sección Dron",
+      "tipo": "policía"
+    },
+    {
+      "nombre": "Ministerio Público",
+      "tipo": "institución pública"
+    },
+    {
+      "nombre": "Ejecutivo",
+      "tipo": "gobierno"
+    }
+  ],
+  "lugares": [
+    "Región de Antofagasta",
+    "San Pedro de Atacama",
+    "Socaire",
+    "Ruta 23-Ch",
+    "Antofagasta",
+    "Calama"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": 1429,
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "vehículo abandonado",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "contenedor",
+      "nombre": "sacos",
+      "cantidad": 6,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "contenedor",
+      "nombre": "bolones",
+      "cantidad": 11,
+      "unidad": "unidad"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Carabineros",
+      "tipo": "incautó",
+      "destino": "marihuana"
+    },
+    {
+      "origen": "OS-7 El Loa",
+      "tipo": "incautó",
+      "destino": "droga"
+    }
+  ]
+}

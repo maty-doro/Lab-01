@@ -1,0 +1,73 @@
+{
+  "id_noticia": "N021",
+  "titulo": "Irán acusa al gobierno de Colombia de narcoterrorismo tras ruptura de relaciones diplomáticas",
+  "fecha_publicacion": "2026-09-25",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/09/25/iran-acusa-al-gobierno-de-colombia-de-narcoterrorismo-tras-ruptura-de-relaciones-diplomaticas.shtml",
+  "resumen": "Irán condenó la ruptura de relaciones diplomáticas por parte de Colombia, acusando al Gobierno colombiano de estar influenciado por Estados Unidos e Israel y de tener lazos con el narcoterrorismo. Por su parte, Colombia declaró a la Guardia Revolucionaria iraní como organización terrorista.",
+  "delitos": [
+    "narcoterrorismo",
+    "tráfico de drogas"
+  ],
+  "personas": [
+    {
+      "nombre": "Abelardo de la Espriella",
+      "rol": "Presidente de Colombia"
+    },
+    {
+      "nombre": "Gustavo Petro",
+      "rol": "Expresidente de Colombia"
+    }
+  ],
+  "organizaciones": [
+    "Irán",
+    "Colombia",
+    "Gobierno de Colombia",
+    "Estados Unidos",
+    "Israel",
+    "Ministerio de Exteriores de Irán",
+    "Guardia Revolucionaria iraní",
+    "Gobierno de la República de Colombia",
+    "República Islámica de Irán"
+  ],
+  "lugares": [
+    "Colombia",
+    "Irán",
+    "Estados Unidos",
+    "Israel",
+    "continente americano",
+    "Gaza",
+    "Bogotá",
+    "Teherán"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "cargamentos de drogas",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Gobierno de Colombia",
+      "tipo": "acusa de narcoterrorismo a",
+      "destino": "Guardia Revolucionaria iraní"
+    },
+    {
+      "origen": "Gobierno de Colombia",
+      "tipo": "rompe relaciones diplomáticas con",
+      "destino": "Irán"
+    },
+    {
+      "origen": "Ministerio de Exteriores de Irán",
+      "tipo": "acusa a",
+      "destino": "Gobierno colombiano"
+    },
+    {
+      "origen": "Gobierno de Abelardo de la Espriella",
+      "tipo": "restablece relaciones con",
+      "destino": "Israel"
+    }
+  ]
+}

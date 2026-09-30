@@ -1,0 +1,180 @@
+{
+  "id_noticia": "N018",
+  "titulo": "Aduana de Iquique incauta más de 36 kilos de diversas drogas durante Fiestas Patrias",
+  "fecha_publicacion": null,
+  "fuente": "LaTercera",
+  "url": "https://www.latercera.com/nacional/noticia/aduana-de-iquique-incauta-mas-de-36-kilos-de-diversas-drogas-durante-fiestas-patrias/",
+  "resumen": "Fiscalizadores de la Aduana de Iquique realizaron seis procedimientos y hallazgos durante Fiestas Patrias, incautando un total de 36,5 kilos de distintas drogas (marihuana, cocaína base, clorhidrato de cocaína y MDA) en controles y en el Aeropuerto Internacional Diego Aracena.",
+  "delitos": [
+    "tráfico de drogas"
+  ],
+  "personas": [
+    {
+      "nombre": "Ricardo Aceituno",
+      "rol": "director regional de Aduanas"
+    },
+    {
+      "nombre": null,
+      "rol": "viajera de nacionalidad boliviana"
+    },
+    {
+      "nombre": null,
+      "rol": "pasajera boliviana"
+    },
+    {
+      "nombre": null,
+      "rol": "pasajero chileno"
+    }
+  ],
+  "organizaciones": [
+    {
+      "nombre": "Aduana de Iquique"
+    },
+    {
+      "nombre": "Subdepartamento de Drogas"
+    },
+    {
+      "nombre": "Dirección General de Aeronáutica Civil"
+    }
+  ],
+  "lugares": [
+    "Aeropuerto Internacional Diego Aracena",
+    "Complejo Fronterizo Colchane",
+    "El Loa",
+    "Quillagua",
+    "Avanzada de Quillagua",
+    "Región del Biobío",
+    "Iquique"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "distintas drogas",
+      "cantidad": 36.5,
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": 31.2,
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "cocaína base",
+      "cantidad": 2.7,
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "clorhidrato de cocaína",
+      "cantidad": 2.1,
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "MDA",
+      "cantidad": 595,
+      "unidad": "gramos"
+    },
+    {
+      "tipo": "equipaje",
+      "nombre": "mochila",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "cocaína base",
+      "cantidad": 993,
+      "unidad": "gramos"
+    },
+    {
+      "tipo": "equipaje",
+      "nombre": "saco negro",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": 31.2,
+      "unidad": "kilos"
+    },
+    {
+      "tipo": "equipaje",
+      "nombre": "bolsa",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "cocaína base",
+      "cantidad": 655,
+      "unidad": "gramos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "pastillas",
+      "cantidad": 798,
+      "unidad": "unidades"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "MDMA o éxtasis",
+      "cantidad": 595,
+      "unidad": "gramos"
+    },
+    {
+      "tipo": "equipaje",
+      "nombre": "mochila",
+      "cantidad": 1,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "clorhidrato de cocaína",
+      "cantidad": 1020,
+      "unidad": "gramos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "cocaína base",
+      "cantidad": 1035,
+      "unidad": "gramos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "clorhidrato de cocaína",
+      "cantidad": 1048,
+      "unidad": "gramos"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Ricardo Aceituno",
+      "tipo": "pertenece_a",
+      "destino": "Aduana de Iquique"
+    },
+    {
+      "origen": "Aduana de Iquique",
+      "tipo": "opera_en",
+      "destino": "Aeropuerto Internacional Diego Aracena"
+    },
+    {
+      "origen": "Aduana de Iquique",
+      "tipo": "opera_en",
+      "destino": "Complejo Fronterizo Colchane"
+    },
+    {
+      "origen": "Aduana de Iquique",
+      "tipo": "opera_en",
+      "destino": "El Loa"
+    },
+    {
+      "origen": "Aduana de Iquique",
+      "tipo": "opera_en",
+      "destino": "Quillagua"
+    }
+  ]
+}

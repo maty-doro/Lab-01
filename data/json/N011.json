@@ -1,0 +1,90 @@
+{
+  "id_noticia": "N011",
+  "titulo": "Investigan asesinato de hombre en San Carlos: fue baleado por dos sujetos y todo quedó grabado",
+  "fecha_publicacion": "2026-09-01",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/09/01/investigan-asesinato-de-hombre-en-san-carlos-fue-baleado-por-dos-sujetos-y-todo-quedo-grabado.shtml",
+  "resumen": "Un hombre de 31 años, identificado como Alexis Zapata Andrades, fue asesinado a balazos por dos sujetos en San Carlos, región de Ñuble. El crimen ocurrió en la intersección de las calles Chacabuco con Itihue y quedó registrado en cámaras de seguridad.",
+  "delitos": [
+    "asesinato",
+    "homicidio"
+  ],
+  "personas": [
+    {
+      "nombre": "Alexis Zapata Andrades",
+      "rol": "victima"
+    },
+    {
+      "nombre": "Raúl Sánchez",
+      "rol": "subprefecto de la PDI Ñuble"
+    },
+    {
+      "nombre": "Héctor Ponce",
+      "rol": "Seremi de Seguridad"
+    },
+    {
+      "nombre": "Pablo Fritz",
+      "rol": "fiscal / persecutor"
+    }
+  ],
+  "organizaciones": [
+    {
+      "nombre": "PDI Ñuble"
+    },
+    {
+      "nombre": "Policía Civil"
+    },
+    {
+      "nombre": "Hospital de San Carlos"
+    },
+    {
+      "nombre": "Fiscalía de San Carlos"
+    },
+    {
+      "nombre": "Servicio Médico Legal"
+    }
+  ],
+  "lugares": [
+    "San Carlos",
+    "Ñuble",
+    "intersección de las calles Chacabuco con Itihue",
+    "Hospital de San Carlos"
+  ],
+  "objetos": [
+    {
+      "tipo": "arma",
+      "nombre": "armas de fuego",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "vehiculo",
+      "nombre": "vehículo",
+      "cantidad": 1,
+      "unidad": null
+    },
+    {
+      "tipo": "dispositivo",
+      "nombre": "cámaras de seguridad",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Raúl Sánchez",
+      "tipo": "pertenece_a",
+      "destino": "PDI Ñuble"
+    },
+    {
+      "origen": "Pablo Fritz",
+      "tipo": "pertenece_a",
+      "destino": "Fiscalía de San Carlos"
+    },
+    {
+      "origen": "Alexis Zapata Andrades",
+      "tipo": "fue_asesinado_en",
+      "destino": "San Carlos"
+    }
+  ]
+}

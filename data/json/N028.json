@@ -1,0 +1,114 @@
+{
+  "id_noticia": "N028",
+  "titulo": "PDI: Extraían agua potable ilegalmente y la vendían en campamentos de Antofagasta",
+  "fecha_publicacion": "2026-09-28",
+  "fuente": "Cooperativa",
+  "url": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/pdi-extraian-agua-potable-ilegalmente-y-la-vendian-en-campamentos-de/2026-09-28/105631.html",
+  "resumen": "La PDI detectó una conexión clandestina de agua potable en el sector La Chimba de Antofagasta tras una denuncia de Aguas Antofagasta. El agua era extraída, cargada en camiones aljibes y comercializada en campamentos. Dos personas de nacionalidad venezolana fueron detenidas y se incautaron dos camiones y un estanque.",
+  "delitos": [
+    "extracción ilegal de agua potable",
+    "receptación",
+    "ingreso clandestino al país"
+  ],
+  "personas": [
+    {
+      "nombre": "Dayane Márquez Calle",
+      "rol": "Periodista Digital"
+    },
+    {
+      "nombre": "Sebastián Morales",
+      "rol": "Comisario"
+    },
+    {
+      "nombre": "Un hombre",
+      "rol": "Detenido"
+    },
+    {
+      "nombre": "Una mujer",
+      "rol": "Detenido"
+    }
+  ],
+  "organizaciones": [
+    {
+      "nombre": "PDI",
+      "tipo": "Policía"
+    },
+    {
+      "nombre": "Aguas Antofagasta",
+      "tipo": "Empresa de servicios sanitarios"
+    },
+    {
+      "nombre": "Ministerio Público",
+      "tipo": "Organismo público"
+    },
+    {
+      "nombre": "Google",
+      "tipo": "Empresa tecnológica"
+    },
+    {
+      "nombre": "Whatsapp",
+      "tipo": "Plataforma de mensajería"
+    },
+    {
+      "nombre": "Conmebol",
+      "tipo": "Organización deportiva"
+    },
+    {
+      "nombre": "Colo Colo",
+      "tipo": "Club de fútbol"
+    },
+    {
+      "nombre": "Puerto Montt",
+      "tipo": "Club de fútbol"
+    }
+  ],
+  "lugares": [
+    "Región de Antofagasta",
+    "Antofagasta",
+    "La Chimba",
+    "calles Pirita y Lapislázuli",
+    "Argentina",
+    "Punta Arenas",
+    "Malvinas",
+    "Viña del Mar",
+    "Chinquihue",
+    "Israel",
+    "Gaza"
+  ],
+  "objetos": [
+    {
+      "tipo": "camión aljibe",
+      "nombre": "camión aljibe",
+      "cantidad": 2,
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "estanque",
+      "nombre": "estanque",
+      "cantidad": 1,
+      "unidad": "unidad"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Aguas Antofagasta",
+      "tipo": "denunció",
+      "destino": "conexión clandestina"
+    },
+    {
+      "origen": "PDI",
+      "tipo": "detuvo",
+      "destino": "Un hombre"
+    },
+    {
+      "origen": "PDI",
+      "tipo": "detuvo",
+      "destino": "Una mujer"
+    },
+    {
+      "origen": "PDI",
+      "tipo": "incautó",
+      "destino": "dos camiones aljibes y un estanque"
+    }
+  ]
+}

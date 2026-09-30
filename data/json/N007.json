@@ -1,0 +1,59 @@
+{
+  "id_noticia": "N007",
+  "titulo": "Deceso de adulta mayor hallada muerta en su casa en Pitrufquén es indagado como un robo con homicidio",
+  "fecha_publicacion": "2026-09-22",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/09/22/deceso-de-adulta-mayor-hallada-muerta-en-su-casa-en-pitrufquen-es-indagado-como-un-robo-con-homicidio.shtml",
+  "resumen": "Investigan como robo con homicidio el crimen de Ramona Durán Mella, de 94 años, hallada muerta en su casa en Pitrufquén. Carabineros y OS-9 realizan diligencias, revisan cámaras, testimonios y la autopsia para esclarecer el hecho y determinar si hubo agresión sexual.",
+  "delitos": [
+    "robo con homicidio",
+    "homicidio",
+    "agresión sexual"
+  ],
+  "personas": [
+    {
+      "nombre": "Ramona Durán Mella",
+      "rol": "víctima"
+    },
+    {
+      "nombre": "Miguel Herrera",
+      "rol": "general, jefe de Zona de Carabineros en La Araucanía"
+    }
+  ],
+  "organizaciones": [
+    "Carabineros",
+    "OS-9",
+    "Ministerio Público",
+    "Servicio Médico Legal"
+  ],
+  "lugares": [
+    "Pitrufquén",
+    "región de La Araucanía",
+    "domicilio de la víctima"
+  ],
+  "objetos": [
+    {
+      "tipo": "cámara",
+      "nombre": "cámaras de seguridad",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Ramona Durán Mella",
+      "tipo": "hallada muerta en",
+      "destino": "domicilio de la víctima"
+    },
+    {
+      "origen": "OS-9 de Carabineros",
+      "tipo": "investiga a",
+      "destino": "autores del homicidio"
+    },
+    {
+      "origen": "Ministerio Público",
+      "tipo": "coordina",
+      "destino": "trabajo policial"
+    }
+  ]
+}

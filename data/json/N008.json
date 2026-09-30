@@ -1,0 +1,66 @@
+{
+  "id_noticia": "N008",
+  "titulo": "36 personas murieron durante Fiestas Patrias: 16 víctimas de homicidio y 20 en siniestros viales",
+  "fecha_publicacion": "2026-09-21",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/21/36-personas-murieron-durante-fiestas-patrias-16-victimas-de-homicidio-y-20-en-siniestros-viales.shtml",
+  "resumen": "Durante las Fiestas Patrias se registraron 16 homicidios y 334 siniestros viales que dejaron 20 fallecidos y 234 lesionados, según informó el ministro de Seguridad Pública, Martín Arrau.",
+  "delitos": [
+    "homicidio",
+    "conducción en estado de ebriedad",
+    "conducción bajo la influencia del alcohol",
+    "consumo de sustancias prohibidas al conducir"
+  ],
+  "personas": [
+    {
+      "nombre": "Martín Arrau",
+      "rol": "ministro de Seguridad Pública"
+    }
+  ],
+  "organizaciones": [],
+  "lugares": [
+    "Región del Maule",
+    "San Clemente",
+    "Región de Ñuble",
+    "capital",
+    "región Metropolitana"
+  ],
+  "objetos": [
+    {
+      "tipo": "arma",
+      "nombre": "armas blancas",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "arma",
+      "nombre": "armas de fuego",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "vehículos",
+      "cantidad": "378000",
+      "unidad": "vehículos"
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "vehículos",
+      "cantidad": "422000",
+      "unidad": "vehículos"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Martín Arrau",
+      "tipo": "informó",
+      "destino": "homicidios"
+    },
+    {
+      "origen": "Martín Arrau",
+      "tipo": "informó",
+      "destino": "siniestros viales"
+    }
+  ]
+}

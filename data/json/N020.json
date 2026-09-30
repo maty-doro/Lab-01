@@ -1,0 +1,123 @@
+{
+  "id_noticia": "N020",
+  "titulo": "Allanamientos permiten incautar droga y armas de fuego en La Pintana: hay nueve detenidos",
+  "fecha_publicacion": null,
+  "fuente": "LaTercera",
+  "url": "https://www.latercera.com/nacional/noticia/allanamientos-permiten-incautar-droga-y-armas-de-fuego-en-la-pintana-hay-nueve-detenidos/",
+  "resumen": "Un operativo policial en La Pintana culminó con la detención de nueve personas, la incautación de drogas, armas de fuego, municiones y dinero, tras allanamientos en siete inmuebles.",
+  "delitos": [
+    "tráfico de drogas",
+    "tráfico de fármacos",
+    "infracciones a la Ley de Control de Armas",
+    "homicidio"
+  ],
+  "personas": [
+    {
+      "nombre": "Javiera García",
+      "rol": "capitana de Comunicaciones Sociales de Carabineros"
+    },
+    {
+      "nombre": "hombre sin identificar",
+      "rol": "líder con orden vigente por homicidio"
+    }
+  ],
+  "organizaciones": [
+    "Carabineros",
+    "Departamento OS-7 de Carabineros",
+    "Ministerio Público",
+    "Sección Microtráfico de Carabineros",
+    "Grupo de Operaciones Policiales Especiales (Gope)",
+    "Control de Orden Público (COP)",
+    "Radiopatrullas"
+  ],
+  "lugares": [
+    "La Pintana",
+    "población El Castillo"
+  ],
+  "objetos": [
+    {
+      "tipo": "droga",
+      "nombre": "marihuana",
+      "cantidad": "901",
+      "unidad": "gramos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "clorhidrato de cocaína",
+      "cantidad": "704",
+      "unidad": "gramos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "ketamina",
+      "cantidad": "44",
+      "unidad": "gramos"
+    },
+    {
+      "tipo": "droga",
+      "nombre": "pasta base de cocaína",
+      "cantidad": "7",
+      "unidad": "gramos"
+    },
+    {
+      "tipo": "fármacos",
+      "nombre": "Deucotos de 120 ml",
+      "cantidad": "136",
+      "unidad": "frascos"
+    },
+    {
+      "tipo": "dinero",
+      "nombre": "dinero en efectivo",
+      "cantidad": "4773000",
+      "unidad": "pesos"
+    },
+    {
+      "tipo": "arma de fuego",
+      "nombre": "pistola marca Bersa, calibre 9 mm",
+      "cantidad": "1",
+      "unidad": "unidades"
+    },
+    {
+      "tipo": "arma de fuego",
+      "nombre": "pistola marca Beretta",
+      "cantidad": "1",
+      "unidad": "unidades"
+    },
+    {
+      "tipo": "arma de fuego",
+      "nombre": "pistola sin marca, modelo 75",
+      "cantidad": "1",
+      "unidad": "unidades"
+    },
+    {
+      "tipo": "accesorio de arma",
+      "nombre": "silenciador",
+      "cantidad": "1",
+      "unidad": "unidades"
+    },
+    {
+      "tipo": "accesorio de arma",
+      "nombre": "cargadores de pistola",
+      "cantidad": "2",
+      "unidad": "unidades"
+    },
+    {
+      "tipo": "municiones",
+      "nombre": "municiones calibre 9 mm",
+      "cantidad": "321",
+      "unidad": "unidades"
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Departamento OS-7 de Carabineros",
+      "tipo": "realiza operativo en",
+      "destino": "La Pintana"
+    },
+    {
+      "origen": "Ministerio Público",
+      "tipo": "coordina investigación con",
+      "destino": "Carabineros"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id_noticia": "N029",
+  "titulo": "Millonario robo y destrozos afectaron a parroquia de Cerro Castillo, en Viña del Mar",
+  "fecha_publicacion": "2026-09-27",
+  "fuente": "Cooperativa",
+  "url": "https://www.cooperativa.cl/noticias/pais/policial/robos/millonario-robo-y-destrozos-afectaron-a-parroquia-de-cerro-castillo-en/2026-09-27/175622.html",
+  "resumen": "Un robo avaluado en 20 millones de pesos afectó a la parroquia Inmaculada Concepción de Viña del Mar, en el sector Cerro Castillo, donde desconocidos sustrajeron vestimentas eclesiásticas, vasos sagrados, objetos litúrgicos y cañerías de cobre, además de causar destrozos.",
+  "delitos": [
+    "robo",
+    "destrozos"
+  ],
+  "personas": [
+    {
+      "nombre": "encargado del recinto",
+      "rol": "testigo o denunciante"
+    }
+  ],
+  "organizaciones": [
+    "Carabineros",
+    "Fiscalía",
+    "Parroquia Inmaculada Concepción"
+  ],
+  "lugares": [
+    "Viña del Mar",
+    "Cerro Castillo",
+    "Parroquia Inmaculada Concepción"
+  ],
+  "objetos": [
+    {
+      "tipo": "dinero",
+      "nombre": "pesos",
+      "cantidad": "20000000",
+      "unidad": "pesos"
+    },
+    {
+      "tipo": "vestimenta",
+      "nombre": "vestimentas eclesiásticas",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "objeto litúrgico",
+      "nombre": "vasos sagrados",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "objeto litúrgico",
+      "nombre": "objetos litúrgicos",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "material de construcción",
+      "nombre": "cañerías de cobre",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "encargado del recinto",
+      "tipo": "avisa a",
+      "destino": "Carabineros"
+    },
+    {
+      "origen": "Carabineros",
+      "tipo": "informa a",
+      "destino": "Fiscalía"
+    }
+  ]
+}

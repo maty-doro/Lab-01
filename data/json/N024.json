@@ -1,0 +1,96 @@
+{
+  "id_noticia": "N024",
+  "titulo": "Detienen a delincuente que durante asalto en Las Condes amenazó con un destornillador a niño de 2 años",
+  "fecha_publicacion": "2026-09-28",
+  "fuente": "BioBioChile",
+  "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/28/detienen-a-delincuente-que-durante-asalto-en-las-condes-amenazo-con-un-destornillador-a-nino-de-2-anos.shtml",
+  "resumen": "Carabineros detuvo a un delincuente que perpetró un violento robo en Las Condes, asaltando a una familia e intimidando a un niño de 2 años con un destornillador para robar dinero, joyas, celulares y una camioneta, siendo posteriormente capturado tras la denuncia de las víctimas.",
+  "delitos": [
+    "robo",
+    "asalto",
+    "amenaza"
+  ],
+  "personas": [
+    {
+      "nombre": "delincuente",
+      "rol": "asaltante"
+    },
+    {
+      "nombre": "niño de 2 años",
+      "rol": "víctima"
+    },
+    {
+      "nombre": "madre",
+      "rol": "víctima"
+    },
+    {
+      "nombre": "jefe de hogar",
+      "rol": "víctima"
+    }
+  ],
+  "organizaciones": [
+    "Carabineros",
+    "seguridad municipal de Las Condes"
+  ],
+  "lugares": [
+    "Las Condes",
+    "calle Juan de Astria",
+    "avenida Francisco Bilbao",
+    "17ª comisaría de Las Condes"
+  ],
+  "objetos": [
+    {
+      "tipo": "herramienta",
+      "nombre": "destornillador",
+      "cantidad": "1",
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "dinero",
+      "nombre": "dinero",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "joyas",
+      "nombre": "joyas",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "teléfono celular",
+      "nombre": "celulares",
+      "cantidad": null,
+      "unidad": null
+    },
+    {
+      "tipo": "vehículo",
+      "nombre": "camioneta Ford Explorer",
+      "cantidad": "1",
+      "unidad": "unidad"
+    },
+    {
+      "tipo": "llaves",
+      "nombre": "llaves de una camioneta",
+      "cantidad": null,
+      "unidad": null
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "delincuente",
+      "tipo": "perpetró",
+      "destino": "robo"
+    },
+    {
+      "origen": "delincuente",
+      "tipo": "amenazó",
+      "destino": "niño de 2 años"
+    },
+    {
+      "origen": "Carabineros",
+      "tipo": "detuvo",
+      "destino": "delincuente"
+    }
+  ]
+}
